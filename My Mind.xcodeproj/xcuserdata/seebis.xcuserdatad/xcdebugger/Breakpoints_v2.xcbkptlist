@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EE9345F1-0B6F-4105-8A88-6583B1C9AB7E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01E3B596-33B6-444D-827B-6D4D697013D1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "My Mind/Views/BackGroundView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "BackGroundView"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3649E628-B868-424B-A966-BEEBC91B6437"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "My Mind/DashBoardViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "didSelectCategory(categroy:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5B11560-6BB3-4A75-A039-9BA321222387"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "My Mind/Views/CategoryScrollView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "showError(messege:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A5B11560-6BB3-4A75-A039-9BA321222387 - 1443975886176c17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "My_Mind.CategoryScrollView.showError(messege: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "My Mind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seebis/Documents/IOS%20Works/My%20Mind/My%20Mind/Views/CategoryScrollView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "178">
+               </Location>
+               <Location
+                  uuid = "A5B11560-6BB3-4A75-A039-9BA321222387 - 51405cdcd1f3425e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in My_Mind.CategoryScrollView.showError(messege: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "My Mind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seebis/Documents/IOS%20Works/My%20Mind/My%20Mind/Views/CategoryScrollView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "141">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

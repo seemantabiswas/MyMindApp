@@ -1,0 +1,53 @@
+{
+    "list": [{
+            "name": "Fashion",
+            "imageUrl": "Fashion",
+            "associatedTypes": ["popular", "following", "explore"],
+            "followers": "432K"
+        },
+        {
+            "name": "Auto",
+            "imageUrl": "Auto",
+            "associatedTypes": ["popular", "following"],
+            "followers": "455K"
+            
+        },
+        {
+            "name": "Science",
+            "imageUrl": "Science",
+            "associatedTypes": ["popular", "following"],
+            "followers": "32K"
+        },
+        {
+            "name": "Technology",
+            "imageUrl": "Technology",
+            "associatedTypes": ["following", "explore"],
+            "followers": "453K"
+        },
+        {
+            "name": "Entertainment",
+            "imageUrl": "Entertainment",
+            "associatedTypes": ["popular", "following", "explore"],
+            "followers": "2452K"
+        },
+        {
+            "name": "Environment",
+            "imageUrl": "Environment",
+            "associatedTypes": ["popular", "following"],
+            "followers": "232K"
+        },
+        {
+            "name": "Finance",
+            "imageUrl": "Finance",
+            "associatedTypes": ["popular", "following", "explore"],
+            "followers": "32K"
+        },
+        {
+            "name": "Travel",
+            "imageUrl": "Travel",
+            "associatedTypes": ["popular", "following", "explore"],
+            "followers": "232K"
+        }
+
+    ]
+}
