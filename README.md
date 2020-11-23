@@ -39,6 +39,7 @@ There is a limit on the api calls as well. If the limit runs out, you can test t
 
 >  `return true ` from  ` BuildConfig.loadFromLocalJson `
 
+Singleton for ` CategoryServices`  is used as there is no API support for ` Follow ` and ` Unfollow`  a category
 Lastly,  the desired functionality was never given to me so I tried to make it as interactive as possible within the design scope.
 
 
